@@ -19,6 +19,6 @@ var myComputer = {
     prosessor: 34
 }
 
-// console.log(myComputer);
+console.log(myComputer);
 myComputer.prosessor = 345;
 console.log(myComputer);
